@@ -16,7 +16,6 @@
   
   #footer-text {
     color: #1A1A1A;
-    margin-right: 100px;
     width: 350px;
   }
 
@@ -26,10 +25,15 @@
   }
 
   .footer-link {
-    margin-right: 100px;
+    margin-bottom: 10px;
+  }
+
+  .bi {
+    margin-right: 15px;
   }
 
 a {
+  margin: 0 auto;
   text-decoration: none;
   font-weight: 900;
   color: #1A1A1A;
@@ -59,11 +63,13 @@ a:hover {
   #footer-text {
     color: #1A1A1A;
     width: 100%;
-    margin-right: 0px;
   }
 
   .footer-link {
-    margin-right: 0px;
+  }
+
+  .bi {
+    display:none;
   }
   
 }
