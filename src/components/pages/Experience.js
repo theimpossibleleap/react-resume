@@ -15,11 +15,8 @@ export default function Experience() {
 
                     <div className="exp-card-bottom">
                         <ul className="experience">
-                            <li>Provide comprehensive support for internal systems, ensuring smooth operation and optimal functionality.</li>
-                            <li>Oversee asset management, deployment, and troubleshooting of over 350 customer-facing and employee-facing devices.</li>
-                            <li>Meticulously merchandise the store to maintain planogram accuracy and brand standards, creating an appealing and organized environment.</li>
-                            <li>Act as the sole point of contact for all technology-related issues, delivering prompt resolutions and exceptional customer service.</li>
-                            <li>Continuously update technical knowledge to adapt to new technologies and software applications, fostering a proactive approach to problem-solving and demonstrating a passion for learning and growth.</li>
+                            <li>Provide comprehensive support for internal systems, overseeing asset management, deployment, and troubleshooting of a diverse range of customer-facing and employee-facing devices. Act as the primary point of contact for all technology-related issues, delivering prompt resolutions and exceptional customer service.</li>
+                            <li>Meticulously merchandise the store to maintain planogram accuracy and brand standards, creating an appealing and organized environment. Continuously update technical knowledge to adapt to new technologies and software applications, demonstrating a proactive approach to problem-solving and a passion for learning and growth.</li>
                         </ul>
                     </div>
                 </div>
@@ -32,10 +29,8 @@ export default function Experience() {
 
                     <div className="exp-card-bottom">
                         <ul className="experience">
-                            <li>Managed team of over ninety employees to impact success of the business. Demonstrated project management and leadership skills to achieve company-leading Net Promoter Scores across all lines of the business.</li>
-                            <li>Communicated with clients, employees, key stakeholders to ensure critical projects are completed on time, within budget, and and to stakeholder specifications. </li>
-                            <li>Identified and resolved problems in store programming, while adapting to market conditions, which led to a five point increase in customer Net Promoter Scores, 150% increase in year over year traffic, and an increase in employee satisfaction.</li>
-                            <li>Analyzed data essential to understanding client behavior to improve customer experience and make informed decisions on goals, strategies, and tactics.</li>
+                            <li>Led a team of over ninety employees, demonstrating strong project management and leadership skills to achieve company-leading Net Promoter Scores (NPS) across all lines of the business. Effectively communicated with clients, employees, and key stakeholders to ensure timely completion of critical projects, resulting in improved customer satisfaction and increased year-over-year traffic.</li>
+                            <li>Resolved store programming issues and adapted to market conditions, leading to a 5-point increase in customer NPS, a 150% boost in year-over-year traffic, and enhanced employee satisfaction. Analyzed crucial data on client behavior to drive improved customer experience and make informed decisions for strategic goals and tactics.</li>
                         </ul>
                     </div>
                 </div>
@@ -48,12 +43,8 @@ export default function Experience() {
 
                     <div className="exp-card-bottom">
                         <ul className="experience">
-                            <li>Successfully managed a complex employee survey project, breaking it down into smaller tasks and ensuring that each task was completed on time and within budget.</li>
-                            <li>Communicated with stakeholders on a regular basis to ensure that team was aligned and that the project was progressing as planned.</li>
-                            <li>Created and presented company-wide training materials for third-party software usage and features.</li>
-                            <li>Identified potential risks and developed contingency plans to mitigate them, ensuring that the project was completed successfully.</li>
-                            <li>Identified errors and bugs in employee survey HTML, CSS, and JavaScript providing solution and ensuring correction before deployment to clients.</li>
-                            <li>Crafted instructional materials such as training manuals, slide decks, and online tutorials, incorporating multimedia elements such as videos and interactive simulations to enhance the learning experience.</li>
+                            <li>Successfully managed a complex employee survey project, ensuring timely and budget-compliant completion by breaking it down into smaller tasks. Communicated effectively with stakeholders to maintain project alignment and progress tracking while identifying and mitigating potential risks.</li>
+                            <li>Developed comprehensive company-wide training materials, including third-party software usage and features, utilizing multimedia elements to enhance the learning experience. Additionally, identified and resolved defects in employee survey HTML and CSS, ensuring accurate deployment to clients.</li>
                         </ul>
                     </div>
                 </div>
@@ -66,10 +57,8 @@ export default function Experience() {
 
                     <div className="exp-card-bottom">
                         <ul className="experience">
-                            <li>Conducted weekly one-on-one meetings with team members to provide feedback, set goals, and identify any challenges or areas where additional support was needed.</li>
-                            <li>Facilitated weekly syncs with stakeholders to ensure that everyone was aligned on project goals, timelines, and deliverables.</li>
-                            <li>Delivered engaging and interactive training sessions to groups of employees, using a variety of techniques such as role-playing and group discussion to reinforce learning objectives.</li>
-                            <li>Designed and delivered training programs to equip employees with the skills and knowledge needed to adapt to new processes or systems.</li>
+                            <li>Conducted regular one-on-one meetings with team members to provide feedback, set goals, and address challenges or areas requiring additional support. Facilitated weekly syncs with stakeholders to ensure alignment on project goals, timelines, and deliverables.</li>
+                            <li>Designed and delivered engaging training sessions using interactive techniques like role-playing and group discussion to reinforce learning objectives. Developed and implemented training programs to equip employees with the necessary skills and knowledge to adapt to new processes or systems.</li>
                         </ul>
                     </div>
                 </div>
@@ -82,11 +71,8 @@ export default function Experience() {
 
                     <div className="exp-card-bottom">
                         <ul className="experience">
-                            <li>Communicated complex technical information to both technical and non-technical stakeholders, using strong communication skills to build effective working relationships.</li>
-                            <li>Analyzed technical, strategic, and tactical issues and developed effective solutions, applying strong analytical skills to identify and troubleshoot problems. </li>
-                            <li>Managed complex projects from start to finish, applying strong project management skills to ensure that projects were completed on time and within budget.</li>
-                            <li>Developed and maintained web applications, demonstrating strong technical proficiency in programming languages such as HTML, CSS, PHP, and SQL.</li>
-                            <li>Maintained a high level of attention to detail when working on client systems, ensuring that all work was completed accurately and efficiently.</li>
+                            <li>Communicated complex technical information to diverse stakeholders, building effective working relationships and utilizing analytical skills to troubleshoot problems and develop solutions. Managed complex projects, ensuring timely and budget-compliant completion while maintaining meticulous attention to detail.</li>
+                            <li>Demonstrated technical proficiency in web development, utilizing programming languages such as HTML, CSS, PHP, and SQL. Developed and maintained small web applications while applying strong project management skills to oversee end-to-end project execution.</li>
                         </ul>
                     </div>
                 </div>
@@ -99,10 +85,8 @@ export default function Experience() {
 
                     <div className="exp-card-bottom">
                         <ul className="experience">
-                            <li>Diagnosed and resolved complex technical problems for customers, demonstrating strong problem-solving skills.</li>
-                            <li>Maintained a high level of technical proficiency by staying up-to-date with the latest computer hardware and software trends.</li>
-                            <li>Paid close attention to detail when working with computer components, ensuring that all work was completed accurately and efficiently.</li>
-                            <li>Provided excellent customer service by communicating technical information in a clear and understandable way.</li>
+                            <li>Demonstrated strong problem-solving skills by diagnosing and resolving complex technical problems for customers while providing excellent customer service through clear and understandable communication of technical information.</li>
+                            <li>Maintained a high level of technical proficiency by staying up-to-date with the latest computer hardware and software trends, while ensuring accurate and efficient completion of work through meticulous attention to detail when handling computer components.</li>
                         </ul>
                     </div>
                 </div>
