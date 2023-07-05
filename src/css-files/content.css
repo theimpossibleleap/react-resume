@@ -187,7 +187,7 @@ small {
   }
 
   .ab-card {
-    width: 75%;
+    width: 100%;
   }
 
   .ab-card-top {
@@ -199,5 +199,10 @@ small {
     border-bottom:1px solid #4a4a4a;
     background: url('../images/portrait.jpg');
     background-size: cover;
+  }
+
+  .exp-card-bottom {
+    padding: 10px;
+    background: #151515;
   }
 }
