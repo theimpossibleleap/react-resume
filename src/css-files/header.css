@@ -1,0 +1,57 @@
+#nav {
+  display:flex;
+  height: 15vh;
+  background: #1A1A1A;
+  color: whitesmoke;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+  display:flex;
+  align-items: center;
+  width: 75%;
+  max-width: 1200px;
+  height: 100%;
+  justify-content: center;
+  border-bottom: solid 2px #ECC82B;
+}
+
+#logo {
+  display:flex;
+  align-items: center;
+  font-weight: 300;
+  font-size: 40pt;
+  color: #ECC82B;
+}
+
+#logo-text {
+  margin: 0 25px 0 25px;
+  font-size: 24pt;
+  font-weight: 300;
+  color: whitesmoke;
+}
+
+.button {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 900;
+  background: #1A1A1A;
+  border: solid 2px #ECC82B;
+  border-radius: 0px;
+  color: whitesmoke;
+  width: 115px;
+  height: 50px;
+  padding: 10px 20px;
+  margin: 15px;
+  text-align: center;
+  font-size: 10pt;
+  transition: 0.2s;
+  box-shadow: 0 0 0 0 #284B3E;
+}
+
+.button:hover {
+  background: #ECC82B;
+  color: #1A1A1A;
+  box-shadow: 0 0 0 5px #ECC82B;
+  font-weight: 900;
+}
