@@ -1,6 +1,5 @@
 import React from "react";
 import '../../css-files/content.css';
-import portrait from '../../images/portrait.jpg';
 
 export default function About() {
     return (

@@ -10,7 +10,7 @@
   width: 75%;
   max-width: 1200px;
   padding-top: 25px;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 
 h1 {
@@ -62,7 +62,7 @@ p.content-text {
 
 small {
   color: #2BEC91;
-  font-size: 10pt;
+  font-size: 12pt;
   margin-left: 10pt;
 }
 
@@ -131,13 +131,13 @@ small {
 }
 
 .ab-card-bottom {
-  font-size: 10pt;
+  font-size: 12pt;
   padding: 25px;
   background: #151515;
 }
 
 .tagline {
-  font-size: 8pt;
+  font-size: 12pt;
   text-align: center;
   margin-bottom: 25px;
 }
@@ -168,6 +168,11 @@ small {
 }
 
 @media only screen and (max-width: 768px) {
+
+  h1 {
+    text-align: center;
+  }
+
   .skill {
     display:flex;
     flex-direction: column;
