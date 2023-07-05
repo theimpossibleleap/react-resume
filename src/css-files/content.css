@@ -81,11 +81,6 @@ small {
   transition: 0.25s ease-in-out;
 }
 
-.exp-card:hover {
-  border: 1px solid #6a6a6a;
-  box-shadow: 0px 0px 50px rgba(0,0,0, 1.0);
-}
-
 .exp-card-top {
   padding: 0px 25px 0px 25px;
   border-bottom:1px solid #4a4a4a;
@@ -111,11 +106,6 @@ small {
   box-shadow: 0px 0px 25px 5px rgba(0,0,0, 0.50);
   transition: 0.25s ease-in-out;
   margin-bottom: 25px;
-}
-
-.ab-card:hover {
-  border: 1px solid #6a6a6a;
-  box-shadow: 0px 0px 50px rgba(0,0,0, 1.0);
 }
 
 .ab-card-top {
@@ -170,25 +160,27 @@ small {
 @media only screen and (max-width: 768px) {
 
   #content {
-    width: 95%;
-  }
-
-  h1 {
-    text-align: center;
+    width: 90%;
   }
 
   .skill {
     display:flex;
     flex-direction: column;
-    flex: 1 1 100%;
+    flex: 1 1 50%;
     justify-content: center;
-    align-items: center;
-    margin-bottom: 25px;
+    align-items: left;
+    margin-bottom: 0px;
   }
 
-  .ab-card {
-    width: 100%;
+  .skill h2 {
+    font-size: 14pt;
   }
+
+  /* 
+  .ab-card {
+    
+    width: 100%;
+  } 
 
   .ab-card-top {
     display:flex;
@@ -200,9 +192,57 @@ small {
     background: url('../images/portrait.jpg');
     background-size: cover;
   }
+  
 
   .exp-card-bottom {
     padding: 10px;
-    background: #151515;
+  } */
+
+  .exp-card {
+    margin: 0 15px 0 15px;
+    border: unset;
+    box-shadow: unset;
+    transition: 0.25s ease-in-out;
   }
+  
+  .exp-card-top {
+    background: #1A1A1A;
+    padding: 0px 0px 0px 0px;
+    border-bottom: unset;
+  }
+  
+  .exp-card-bottom {
+    padding: 10px;
+    background: #1A1A1A;
+  }
+  
+  #ab-container {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ab-card {
+    display:flex;
+    flex-direction: column;
+    width: 95%;
+    max-width: 500px;
+    background: #2A2A2A;
+    border: 1px solid #4a4a4a;
+    box-shadow: 0px 0px 25px 5px rgba(0,0,0, 0.50);
+    transition: 0.25s ease-in-out;
+    margin-bottom: 25px;
+  }
+  
+  .ab-card-top {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border-bottom:1px solid #4a4a4a;
+    background: url('../images/portrait.jpg');
+    background-size: cover;
+  }
+
 }
