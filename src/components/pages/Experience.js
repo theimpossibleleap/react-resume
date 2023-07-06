@@ -9,7 +9,8 @@ export default function Experience() {
 
                 <div className="exp-card">
                     <div className="exp-card-top">
-                        <h2><i className="bi bi-apple"></i> Tech and Merch Pro @ Apple Inc.</h2>
+                        <h2>Tech and Merch Pro</h2>
+                        <h3 className="company">Apple Inc.</h3>
                         <p className="years">05/2023 → Present</p>
                     </div>
 
@@ -23,7 +24,8 @@ export default function Experience() {
 
                 <div className="exp-card">
                     <div className="exp-card-top">
-                        <h2><i className="bi bi-apple"></i> Manager @ Apple Inc.</h2>
+                        <h2>Manager</h2>
+                        <h3 className="company">Apple Inc.</h3>
                         <p className="years">07/2016 → 06/2023</p>
                     </div>
 
@@ -37,7 +39,8 @@ export default function Experience() {
 
                 <div className="exp-card">
                     <div className="exp-card-top">
-                        <h2><i className="bi bi-apple"></i> Employee Survey Project Manager @ Apple Inc.</h2>
+                        <h2>Employee Survey Project Manager</h2>
+                        <h3 className="company">Apple Inc.</h3>
                         <p className="years">02/2022 → 07/2022</p>
                     </div>
 
@@ -51,7 +54,8 @@ export default function Experience() {
 
                 <div className="exp-card">
                     <div className="exp-card-top">
-                        <h2><i className="bi bi-apple"></i> Retail at Home Manager @ Apple Inc.</h2>
+                        <h2>Retail at Home Manager</h2>
+                        <h3 className="company">Apple Inc.</h3>
                         <p className="years">03/2020 → 02/2022</p>
                     </div>
 
@@ -65,7 +69,8 @@ export default function Experience() {
 
                 <div className="exp-card">
                     <div className="exp-card-top">
-                        <h2><i className="bi bi-apple"></i> Lead Technician @ Apple Inc.</h2>
+                        <h2>Lead Technician</h2>
+                        <h3 className="company">Apple Inc.</h3>
                         <p className="years">2014 → 2016</p>
                     </div>
 
@@ -79,7 +84,8 @@ export default function Experience() {
 
                 <div className="exp-card">
                     <div className="exp-card-top">
-                        <h2><i className="bi bi-apple"></i> Senior Technician @ Apple Inc.</h2>
+                        <h2>Senior Technician</h2>
+                        <h3 className="company">Apple Inc.</h3>
                         <p className="years">2008 → 2014</p>
                     </div>
 

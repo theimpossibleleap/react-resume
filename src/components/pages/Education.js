@@ -15,7 +15,7 @@ export default function Education() {
                         <p className="content-text">Expected Bachelor of Science in Software Engineering<small>(<i>ETC: November 2024</i>)</small></p>
                         <div id="completed">
                             <p>Relevant Completed Courses:</p>
-                            <ul style={{marginBottom: 50 + 'px'}}>
+                            <ul id="edu-list">
                                 <li>Data Structures and Algorithms</li>
                                 <li>Introduction to Python Programming</li>
                                 <li>Scripting and Programming Foundations</li>
