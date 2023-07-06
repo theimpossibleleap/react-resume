@@ -23,8 +23,9 @@ export default function Skills() {
                 <div className="skill"><h2 className="skills-text">Python</h2></div>
                 <div className="skill"><h2 className="skills-text">GitHub</h2></div>
                 <div className="skill"><h2 className="skills-text">SQL</h2></div>
-                <div className="skill"><h2 className="skills-text">React <small>(Learning)</small></h2>    </div>
-            </div></div>
+                <div className="skill"><h2 className="skills-text">React <small>(Learning)</small></h2></div>
+            </div>
+            </div>
         </>
     );
 };

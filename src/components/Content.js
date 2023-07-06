@@ -16,7 +16,7 @@ function Content() {
                 <Education />
                 <div className="spacer"></div>
                 <Skills />
-                <div style={{marginBottom: 150 + 'px'}}></div>
+                <div style={{marginBottom: 50 + 'px'}}></div>
             </div>
         </div>
     )
