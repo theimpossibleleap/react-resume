@@ -16,7 +16,7 @@ export default function Experience() {
 
                     <div className="exp-card-bottom">
                         <ul className="experience">
-                            <li>Conceptualized and independently developed an application using React, HTML, CSS, and JavaScript. Collaborated with cross-functional teams to gather feedback, iterate on designs, and incorporate feature enhancements, aligning the application with user needs.</li>
+                            <li>Conceptualized and independently developed an application using React, HTML5, CSS3, and JavaScript. Collaborated with cross-functional teams to gather feedback, iterate on designs, and incorporate feature enhancements, aligning the application with user needs.</li>
                             <li>Provide comprehensive support for internal systems, overseeing asset management, deployment, and troubleshooting of a diverse range of customer-facing and employee-facing devices. Act as the primary point of contact for all technology-related issues, delivering prompt resolutions and exceptional customer service.</li>
                             <li>Meticulously merchandise the store to maintain planogram accuracy and brand standards, creating an appealing and organized environment. Continuously update technical knowledge to adapt to new technologies and software applications, demonstrating a proactive approach to problem-solving and a passion for learning and growth.</li>
                         </ul>
