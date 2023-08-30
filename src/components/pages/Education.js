@@ -24,6 +24,8 @@ export default function Education() {
                                 <li>Data Management Foundations</li>
                                 <li>Data Management Applications</li>
                                 <li>Advanced Data Management</li>
+                                <li>User Interface Design</li>
+                                <li>User Experience Design</li>
                             </ul>
                         </div>
                     </div>
