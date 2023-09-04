@@ -26,6 +26,7 @@ export default function Education() {
                                 <li>Advanced Data Management</li>
                                 <li>User Interface Design</li>
                                 <li>User Experience Design</li>
+                                <li>Version Control (Git, CI/CD)</li>)
                             </ul>
                         </div>
                     </div>
